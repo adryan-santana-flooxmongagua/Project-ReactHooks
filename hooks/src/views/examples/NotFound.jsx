@@ -5,7 +5,7 @@ const Home = props => (
     <div className="Home">
         <PageTitle error
             title="404"
-            subtitle="Opss... Página Não Encontrada!" />
+            subtitle="Mano acho q n foi encontrado, foi mal, a pag n existe" />
     </div>
 )
 
